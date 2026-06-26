@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "NOVA~;;;H4sIAAAAAAAAA5VU2ZKiSBT9l3zVaNkRIypi2EQUXJBFa6IfUkgWZTNJsLCj/r0Dq6qrH2Z6anhKbmbce+45594foKyyBq1QD2Y/QI2zDhI0HElfIzADShvHCIMxiCCBYAaMDfSc9KQUsVTEvNNz67MVqKPKslNORYwfOeLGtSOKNqZP4HUM6vaUZ+EfEl7upEhuyJ7OJ+uREFirtjITdrtosuk0VM5UT8E001eLU7l7Aq9DRpjhrEz0OkUFwjBfoX4LM/w1+LbeeKyfTW7LXSAsRspmNZrEKWU2z4Wfa221qPs50Ta+bXBfg8+5zDY3C08Od0WbNvE1sO7b/upRa77wyzPOdgd+ojqlrkzf4DdZUqLIjFBJMtJ/nXez5yhKjQ6HNcvYx5NmNns5XFD6+nIjG+nk2zEfkFa8H3ZfA347n9A98lW7ubauVsxJEI+M3Lt1Ukcmun7Xe5e1qOdA9MzfgW/xh1cu/4d3VXUUQ+A7rhUm1TbIDf86aTqcp1XqlGEg3ii1vu4rZ3HxvgZ/pLOUxi09DjbTU/yiJC1j6LuwWwv2y848tYFwOy6Kuiw06hM+JC3+E0pRH63DnSGpSVncLc7dLudNJa0SOuSny+ZS8tXxslJuV8F07D5S+XwiONphkU/Cjg5da8WdBO/SMsTUGmZxT3ohoz319vTo6IJ6MwIz+nUMMEqyhmBIsqp8xCRuDGDU7VGIEXnQC5I6jWm5C/aRVbuHZ7ZYJg6lmHNW5s6pvNJ9N1bc1dnhbf0JjEGNqxA1DYoWWUMq3NuoaWCCGjD7+/sYlOiFvAk3lGPpMYgz3BCvbOu8gtGHqh+XMAyrtiT7vgzV4YAwmFGfYURIVibNwGNbQhymWYfUFJIGzGKYN+hXhwijCMwIbtGvqVWraCB+JQSeeVwswBgUD0GyCMwAw3Miy0sMPRWlmUT91Xy7DWlhXX8rEQFjkD+eCQzHsCLDixLLSszwcIiPQQmHXEAuI5hDN0U2Hnh/Rz0UiRCBWd4MdrQ7oUamoS8zdiTphiHriawmMvjs8sMub3IYXalWUpIIhl5vM3o0jyKfh1eWVjxtMZI7yqehVCVWMt89/UMSMAMsvl+TlDmLl/QqnBwqP2qbJbyfKNiPNlYoWyN1L1+TuxTbYSoeZNFDNLPsXGE+euZU2mBPziWOpz41dwrpqCVscMTa4K0xiFCXhej3YqqRV5eyxTe9bdVDtLkEcH91o3LRnS+Wdr8ZftdX6ZTyBTM8itnGXCUNa23dJLtrK9IHCsYvIp3HkjpSrOpF6V6SXns38mOQ8vcFlj0sNug3/MYZeuyDdyX+U8834IPtqNfxbzneN8y/TKniYP523R7NTZquXI7E6eHgo+BKpJ0vv0wSS5pHQQdNlVM88Pr6fQzqHJK4wgWYAVhGuHrYBVft4GOzjKs/LS7ZNLVdMh86z2FD5M/ZcLMCNQQWNZjR4pThKY7lhTEoermu9wSSj5EC8vBtNBm8/gS5aTCDbgcAAA==",
 // add your Session Id 
 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
@@ -54,11 +54,10 @@ BOT_NAME: process.env.BOT_NAME || "NOVA-XMD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255767862457",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254793753327",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "𝙽𝙾𝚅𝙰-𝚇𝙼𝙳",
-// add bot owner name
+OWNER_NAME: process.env.OWNER_NAME || "addner name
 
 DESCRIPTION: process.env.DESCRIPTION || "*© POWERED NOVA TECH*",
 // add bot description    
@@ -66,7 +65,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© POWERED NOVA TECH*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://url.bmbxmd.workers.dev/1N0H3G.jpg",
 // add img for alive msg
 
-LIVE_MSG: process.env.LIVE_MSG || "> Powered by Nova Xmd",
+LIVE_MSG: process.env.LIVE_MSG || "> Powered by Megamind",
 // add alive msg here 
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
